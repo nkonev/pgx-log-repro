@@ -43,8 +43,8 @@ github.com/mcosta74/pgx-slog v0.4.1 h1:Rt25l/jE5tu1ioqPDrqY17Kv6REdsM0L9WCT+hFw1
 github.com/mcosta74/pgx-slog v0.4.1/go.mod h1:BCpubkiENkWQ8MvZ4a9LJgWuBzC5UpWoJmQ1/SOlv+M=
 github.com/microsoft/go-mssqldb v1.6.0 h1:mM3gYdVwEPFrlg/Dvr2DNVEgYFG7L42l+dGc67NNNpc=
 github.com/microsoft/go-mssqldb v1.6.0/go.mod h1:00mDtPbeQCRGC1HwOOR5K/gr30P1NcEG0vx6Kbv2aJU=
-github.com/nkonev/pgx/v5 v5.8.1 h1:8GvkCuULV8kl9WtL5SwRkUY6C9KrFecqgGj3DoCAD3Q=
-github.com/nkonev/pgx/v5 v5.8.1/go.mod h1:QVeDInX2m9VyzvNeiCJVjCkNFqzsNb43204HshNSZKw=
+github.com/nkonev/pgx/v5 v5.8.2 h1:ZMArGevw4/3CYEoYBbVFXffK+wTU/mU2mFxe7o+veCY=
+github.com/nkonev/pgx/v5 v5.8.2/go.mod h1:QVeDInX2m9VyzvNeiCJVjCkNFqzsNb43204HshNSZKw=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v0.0.0-20151028094244-d8ed2627bdf0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
