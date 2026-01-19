@@ -40,4 +40,4 @@ require (
 	google.golang.org/protobuf v1.36.10 // indirect
 )
 
-replace github.com/jackc/pgx/v5 v5.8.0 => github.com/nkonev/pgx/v5 v5.8.2
+replace github.com/jackc/pgx/v5 v5.8.0 => github.com/nkonev/pgx/v5 v5.8.3
